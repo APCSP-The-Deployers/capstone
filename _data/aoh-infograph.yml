@@ -5,7 +5,7 @@ Description: "Helping Anvil of Hope recognize high-need areas through machine le
 
 Topics:
   - title: "Anvil of Hope"
-    image: "/capstone/anvil_of_hope_logo.png"
+    image: "capstone/anvil_of_hope_logo.png"
     link: "/capstone/anvil_of_hope/"
     alt: "Anvil of Hope — Data Map Capstone"
     keyPoints:
