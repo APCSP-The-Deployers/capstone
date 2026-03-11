@@ -1,0 +1,32 @@
+# chjange this to be anvil of hope stuff
+Title: "Anvil of Hope - Data Map"
+Description: "Helping Anvil of Hope recognize high-need areas through machine learning"
+
+
+Topics:
+  - title: "Anvil of Hope"
+    image: "capstone/anvil_of_hope_logo.png"
+    link: "/capstone/anvil_of_hope/"
+    alt: "Anvil of Hope — Data Map Capstone"
+    keyPoints:
+      - Add interactive map with information on areas in San Diego
+      - Add algorithm to score areas based on how much they would need assistance
+      - Add filters to the map to show different types of information
+      - Add recommendations for where Anvil of Hope should focus their efforts based on the data
+    subtitle: "Harnessing the power of machine learning to help a nonprofit organization"
+    description: "A design-based research capstone that builds an interactive data map for Anvil of Hope, a nonprofit organization that provides housing and support services to people experiencing homelessness in San Diego. The map uses machine learning algorithms to analyze various data sources and identify high-need areas where Anvil of Hope can focus their efforts. The project aims to help the organization make data-driven decisions and maximize their impact in the community."
+    tech:
+      - "Polished, easy-to-access frontend interface"
+      - "Interactive map with important information"
+      - "Machine learning algorithm to score areas based on need"
+      - "AI-driven suggestions for course of action"
+    impact:
+      - "Helps Anvil of Hope with their cause"
+      - "Provides a tool for informed decision-making"
+      - "Makes data more accessible and actionable for a nonprofit organization"
+      - "Provides targeted help for those in need"
+    status: "In Development"
+    team:
+      - "West Stefany"
+      - "Sloane Sommers"
+      - "David Ma"
